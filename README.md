@@ -4,7 +4,8 @@
 **Author:** Andrea B.  
 **Contact:** baciuandrea04@gmail.com 
 
-**Description:** Dive into **Calculation Cruncher**🎉 and challenge your math skills with a whirlwind of random problems that will get your brain buzzing!
+## Description:
+Dive into **Calculation Cruncher**🎉 and challenge your math skills with a whirlwind of random problems that will get your brain buzzing!
 
 ## Features
 
@@ -16,5 +17,5 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/calculation-cruncher.git
-   cd calculation-cruncher
+   git clone https://github.com/AndreaBaciu17/CalculationCruncher-Python.git
+   cd CalculationCruncher-Python
